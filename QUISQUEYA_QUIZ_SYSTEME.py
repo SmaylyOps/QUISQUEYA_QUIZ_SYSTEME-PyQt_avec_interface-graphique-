@@ -1763,8 +1763,3 @@ if __name__ == "__main__":
     Lance l'application uniquement si ce fichier est exécuté directement.
     """
     main()
-
-
-# ============================================================================
-# FIN DE LA PARTIE 4/4 - APPLICATION COMPLÈTE 
-# ============================================================================
